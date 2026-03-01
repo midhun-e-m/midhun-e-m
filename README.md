@@ -103,13 +103,12 @@ Developed and deployed a production-ready website.
 
 ---
 
-# 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
-![Midhun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=midhun-e-m&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Midhun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=midhun-e-m&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midhun-e-m&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midhun-e-m&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600)
 
 ---
 
