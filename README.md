@@ -111,6 +111,11 @@ Developed and deployed a production-ready website.
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=midhun-e-m&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=midhun-e-m&theme=tokyonight&hide_border=true)
+
+---
 
 # 🎯 Current Focus
 
