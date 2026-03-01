@@ -5,6 +5,10 @@
 Building scalable backend systems and AI-powered applications.  
 Focused on Spring Boot, distributed systems, and LLM-integrated architectures.
 
+![Location](https://img.shields.io/badge/Location-Kerala,%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Email](https://img.shields.io/badge/Email-midhunem470@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Midhun-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ---
 
 ## 🧠 What I’m Building
@@ -18,21 +22,28 @@ Focused on Spring Boot, distributed systems, and LLM-integrated architectures.
 
 ## 🔥 Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-6DB33F?style=for-the-badge&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
 
 ### Mobile & AI
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Integration-black?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin)
+![Android](https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android)
+![Python](https://img.shields.io/badge/Python-AI%20Routing-3776AB?style=for-the-badge&logo=python)
+![LLM](https://img.shields.io/badge/LLM-System%20Integration-black?style=for-the-badge)
 
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Cloud
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-Development-black?style=for-the-badge&logo=linux)
+
+---
+## 📚 Currently Learning
+
+![Spring Security](https://img.shields.io/badge/Spring-Security-brightgreen?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System-Design-blueviolet?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-informational?style=for-the-badge)
 
 ---
 
