@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Midhun 👋
 
-<!--
-**midhun-e-m/midhun-e-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Spring Boot | Kotlin | AI Systems
 
-Here are some ideas to get you started:
+🎓 MCA Student  
+🚀 Building scalable backend systems and AI-powered applications  
+🧠 Currently working on LLM-as-an-OS assistant project  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- Java
+- Spring Boot
+- Kotlin
+- Android
+- Firebase
+- MySQL
+- REST APIs
+- Git
+
+---
+
+## 🚀 Projects
+🔹 LLM-as-OS Android Assistant  
+🔹 AutoStream – Bike Parts & Booking Platform  
+🔹 Backend APIs with Spring Boot  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Email: (professional email)
