@@ -131,4 +131,4 @@ Developed and deployed a production-ready website.
 
 ---
 
-> “Building real systems. Not tutorial clones.”
+> “Building real systems. One at a Time.”
