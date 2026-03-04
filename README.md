@@ -1,4 +1,4 @@
-# Hi, I'm Midhun 👋
+# Hi, I'm Midhun 
 
 ### 🚀 Backend Developer | AI Systems Builder | MCA Student
 
