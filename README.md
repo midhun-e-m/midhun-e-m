@@ -1,6 +1,6 @@
 # Hi, I'm Midhun 
 
-### 🚀 Backend Developer | AI Systems Builder | MCA Student
+###  Backend Developer | AI Systems Builder | MCA Student
 
 Building scalable backend systems and AI-powered applications.  
 Focused on Spring Boot, distributed systems, and LLM-integrated architectures.
@@ -11,16 +11,16 @@ Focused on Spring Boot, distributed systems, and LLM-integrated architectures.
 
 ---
 
-## 🧠 What I’m Building
+##  What I’m Building
 
-- 🤖 **LLM-as-an-OS Assistant (Android + Kotlin)**
-- 🏥 **MediAssist – Real-time Emergency Assistance Platform**
-- 🔀 **Multi-Model AI Router (Python)**
+-  **LLM-as-an-OS Assistant (Android + Kotlin)**
+-  **MediAssist – Real-time Emergency Assistance Platform**
+-  **Multi-Model AI Router (Python)**
 - 🌐 Live Production Website Deployment
 
 ---
 
-## 🔥 Tech Stack
+##  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-6DB33F?style=for-the-badge&logo=springboot)
@@ -39,7 +39,7 @@ Focused on Spring Boot, distributed systems, and LLM-integrated architectures.
 ![Linux](https://img.shields.io/badge/Linux-Development-black?style=for-the-badge&logo=linux)
 
 ---
-## 📚 Currently Learning
+##  Currently Learning
 
 ![Spring Security](https://img.shields.io/badge/Spring-Security-brightgreen?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System-Design-blueviolet?style=for-the-badge)
@@ -47,9 +47,9 @@ Focused on Spring Boot, distributed systems, and LLM-integrated architectures.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🤖 LLM-as-an-OS Assistant
+##  LLM-as-an-OS Assistant
 An Android AI assistant designed to behave like an operating system layer.
 
 **Key Features:**
@@ -64,7 +64,7 @@ Built using: Kotlin + Firebase + LLM API
 
 ---
 
-## 🏥 MediAssist – Emergency Assistance Platform
+##  MediAssist – Emergency Assistance Platform
 A real-time driver & patient coordination system.
 
 **Core Highlights:**
@@ -78,7 +78,7 @@ Tech: Kotlin + Firebase + Maps Integration
 
 ---
 
-## 🔀 Multi-Model AI Router (Python)
+## Multi-Model AI Router (Python)
 A backend intelligence layer that routes prompts dynamically to different LLM providers.
 
 **Features:**
